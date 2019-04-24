@@ -1,8 +1,13 @@
+import java.util.Scanner;
+
 public class HelloWorld {
 
     public static void main(String[] args) {
-        // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, World");
+       Scanner user_input = new Scanner(System.in);
+	   String name;
+	   System.out.print("Enter your name: ");
+	   name = user_input.next();
+       System.out.println("Hello " + name);
     }
 
 }
