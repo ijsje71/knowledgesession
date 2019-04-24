@@ -1,1 +1,1 @@
-This is the repository for the eProseed knowledge sesssion about git
+This is the repository for the eProseed knowledge sesssion about git MATHIJS IS EEN STOMMERD
